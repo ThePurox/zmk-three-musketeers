@@ -1,0 +1,1 @@
+west build -p -s zmk/app -b seeeduino_xiao_rp2040 -- -DZMK_EXTRA_MODULES="/home/nex/projects/keyboards/zmk-three-musketeers/" -DSHIELD=musketeers

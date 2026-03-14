@@ -1,0 +1,8 @@
+file_format: "1"
+id: musketeers
+name: "the three musketeers"
+type: shield
+url: https://github.com/1000eyed/the-three-musketeers
+requires: [waveshare_rp2040_zero]
+features:
+  - keys

@@ -1,0 +1,3 @@
+# No whitespace after the comma or in your keyboard name!
+config SHIELD_THE_THREE_MUSKETEERS
+    def_bool $(shields_list_contains,the_three_musketeers)
